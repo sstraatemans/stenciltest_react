@@ -3,6 +3,7 @@
   "sideEffects": false,
   "version": "0.0.1",
   "private": false,
+  "type": "module",
   "description": "React specific wrapper for component-library",
   "scripts": {
     "build": "npm run clean && npm run compile",
